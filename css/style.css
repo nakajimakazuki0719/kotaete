@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* H */
+iframe{
+  width: 400px;
+  margin: 0 auto;
+  margin-bottom:20px ;
+}
+.aaa{
+  text-align: center;
+}
+input[type="text"]{
+ width: 350px;
+}
